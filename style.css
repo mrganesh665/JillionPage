@@ -1,0 +1,62 @@
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.hero-image {
+    width: 50%;
+    height: auto;
+}
+
+.feature-image {
+    width: 600px;
+    height: auto;
+    margin: 60px;
+}
+.feature-image2 {
+    width: 800px;
+    height: auto;
+}
+
+
+.textdiv{
+    width: 40%;
+    display: inline-block;
+    margin-top: 200px;
+}
+#textdiv2{
+    margin-left: 80px;
+}
+
+
+.product-image {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.testimonial-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.contact-us .form-control {
+    border-radius: 5px;
+}
+
+.testimonial-image{
+    width: 80px;
+    height: 80px;
+}
+  /* Style for Carousel Control Icons */
+
+
+  .carousel-control-prev-icon::before {
+      transform: rotate(-135deg); /* Arrow points left */
+      margin-left: -6px;
+  }
+
+  .carousel-control-next-icon::before {
+      transform: rotate(45deg); /* Arrow points right */
+      margin-right: -6px;
+  }
